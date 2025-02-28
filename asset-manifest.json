@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-analysis-tool/static/css/main.81f4b470.css",
+    "main.js": "/employee-analysis-tool/static/js/main.8c56521e.js",
+    "static/js/453.c5eaf93b.chunk.js": "/employee-analysis-tool/static/js/453.c5eaf93b.chunk.js",
+    "index.html": "/employee-analysis-tool/index.html",
+    "main.81f4b470.css.map": "/employee-analysis-tool/static/css/main.81f4b470.css.map",
+    "main.8c56521e.js.map": "/employee-analysis-tool/static/js/main.8c56521e.js.map",
+    "453.c5eaf93b.chunk.js.map": "/employee-analysis-tool/static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81f4b470.css",
+    "static/js/main.8c56521e.js"
+  ]
+}
